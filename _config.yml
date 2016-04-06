@@ -1,0 +1,28 @@
+name: clarsentest
+favicon: null
+layout_spectrum: 0.28897753078490496
+typography_spectrum: 0.3025341851171106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5286578100640327
+  lightness: 0.7510181327816099
+  saturation: 0.8030938864685595
+  rhythmicContrast: 0.8350667217746377
+purpose: []
